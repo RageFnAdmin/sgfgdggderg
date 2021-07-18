@@ -1,4 +1,5 @@
-if game.PlaceId == 286090429 then local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zxciaz/VenyxUI/main/Reuploaded"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit. local venyx = library.new("Glurak Hub: Arsenal", 5013109572)
+if game.PlaceId == 286090429 then 
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/zxciaz/VenyxUI/main/Reuploaded"))() --someone reuploaded it so I put it in place of the original back up so guy can get free credit. local venyx = library.new("Glurak Hub: Arsenal", 5013109572)
 
 local page2 = venyx:addPage("Main", 5012544693)
 local Farm = page2:addSection("Aimbot")
